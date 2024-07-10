@@ -1,12 +1,16 @@
-- 👋 Hi, I’m PragyaSharma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Pragya Sharma, a Full Stack Developer with expertise in Java, JavaScript, HTML, and CSS. Currently pursuing my MCA at Madan Mohan Malviya University of Technology, Gorakhpur, with a BCA from Jagran College of Arts, Science, and Commerce, Kanpur. Skilled in OOPS, data structures, and algorithms, I aim to excel in the IT sector.
 
-<!---
-sharmapragya025/sharmapragya025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills:-
+- **Languages:** Java, C++, JavaScript, HTML, CSS
+- **Core Competencies:** OOPS, Data Structures, Algorithms
+- **Dev Tools:** Visual Studio Code, IntelliJ IDEA, Git/GitHub, MySQL
+
+ Goals:-
+To excel as a Full Stack Developer in the IT sector.
+
+ Contact
+- https://www.linkedin.com/in/pragya-sharma-93407521a
+- mailto:sharmapragya025@gmail.com
+
+
+
