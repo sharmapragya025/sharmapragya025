@@ -1,4 +1,4 @@
-Hi, I'm Pragya Sharma, a Full Stack Developer with expertise in Java, JavaScript, HTML, and CSS. Currently pursuing my MCA at Madan Mohan Malviya University of Technology, Gorakhpur, with a BCA from Jagran College of Arts, Science, and Commerce, Kanpur. Skilled in OOPS, data structures, and algorithms, I aim to excel in the IT sector.
+Hi, I'm Pragya Sharma, with expertise in Java, JavaScript, HTML, and CSS. Currently pursuing my MCA at Madan Mohan Malviya University of Technology, Gorakhpur, with a BCA from Jagran College, Kanpur. Skilled in OOPS, data structures, and algorithms, I aim to excel in the IT sector.
 
 **Skills**
 - **Languages:** Java, C++, JavaScript, HTML, CSS
